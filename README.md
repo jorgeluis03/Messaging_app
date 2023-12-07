@@ -1,1 +1,1 @@
-# Messaging_app
+# App-Easy-Chat
